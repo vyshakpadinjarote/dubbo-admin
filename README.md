@@ -5,7 +5,7 @@
 ![license](https://img.shields.io/github/license/apache/dubbo-admin.svg)
 
 [中文说明](README_ZH.md)
-### Demo Address
+## Demo Address
 * http://47.91.207.147/#/service
 * this demo is the latest version of `develop` branch, you can try it before building from source code
 ### Screenshot
